@@ -7,7 +7,7 @@ This is a simple music player implemented in Python. The player allows you to pl
 - Python 3.x
 - Required libraries (e.g., pygame for audio playback)
 
-## demo
+## Demo
 
 
 
