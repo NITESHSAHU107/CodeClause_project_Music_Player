@@ -9,6 +9,7 @@ This is a simple music player implemented in Python. The player allows you to pl
 
 ## Demo
 
+![music_player](https://github.com/NITESHSAHU107/CodeClause_project_Music_Player/assets/111894844/09af9790-051b-422e-8d37-6ff37cd26013)
 
 
 ## Usage
