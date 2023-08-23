@@ -7,6 +7,10 @@ This is a simple music player implemented in Python. The player allows you to pl
 - Python 3.x
 - Required libraries (e.g., pygame for audio playback)
 
+## demo
+
+
+
 ## Usage
 
 1. Run the program.
@@ -20,3 +24,9 @@ This is a simple music player implemented in Python. The player allows you to pl
 ## Supported Formats
 
 This music player supports the following audio formats: MP3,etc. Make sure your music files are in one of these formats.
+
+## Featurees
+1. you can upload your faviourite song.
+2. Remove song by yourself.
+3. Good sound.
+4. music operation like Play,Stop,Push, Resume.
